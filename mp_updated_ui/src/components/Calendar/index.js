@@ -8,10 +8,6 @@ import Modal from '../Modal'
 import fetch from 'node-fetch'
 
 const URL =
-// 'https://www.googleapis.com/calendar/v3/calendars/tioveinna@gmail.com/events'
-// 'https://calendar.google.com/calendar/embed?src=tioveinna%40gmail.com&ctz=Asia%2FSingapore'
-//  'https://www.googleapis.com/calendar/v3/calendars/tioveinna@gmail.com/events?key=AIzaSyDNkzaJxCMPA8f9M7AzxGiFoExtqRGVvfY&date=2020-01-01'
-  // 'AIzaSyDNkzaJxCMPA8f9M7AzxGiFoExtqRGVvfY'
 // 'https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest'
 'https://calendar-events.netlify.com/.netlify/functions/calendar-events?date=2019-04-01&maxEvents=100' 
 // 'https://mystifying-mahavira-7ad7a0.netlify.com/.netlify/functions/calendar-events'
